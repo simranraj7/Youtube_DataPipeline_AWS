@@ -1,4 +1,4 @@
-<p align='center'>
+<!-- <p align='center'>
 <img src='https://github.com/waqarg2001/Youtube-Data-Pipeline-AWS/blob/main/assets/Icon.png' width=430 height=270 >
 </p>
 
@@ -20,7 +20,7 @@
   <a href="#screenshots">Screenshots</a> •
   <a href="#support">Support</a> •
   <a href="#license">License</a>
-</p>
+</p> -->
 
 
 ## Overview
