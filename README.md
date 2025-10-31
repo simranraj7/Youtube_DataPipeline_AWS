@@ -94,7 +94,7 @@ Following are project execution screenshots from AWS portal.
 <br>
 <img src="https://github.com/waqarg2001/Youtube-Data-Pipeline-AWS/blob/main/assets/ss2.png" width=900 height=400>
 
-## Support
+<!-- ## Support
 
 If you have any doubts, queries, or suggestions then, please connect with me on any of the following platforms:
 
@@ -113,9 +113,9 @@ This license allows reusers to distribute, remix, adapt, and build upon the mate
 
 
 <!--Profile Link-->
-[linkedin]: https://www.linkedin.com/in/waqargul
-[gmail]: mailto:waqargul6@gmail.com
+<!-- [linkedin]: https://www.linkedin.com/in/waqargul
+[gmail]: mailto:waqargul6@gmail.com -->
 
 <!--Logo Link -->
-[linkedinbadge]: https://img.shields.io/badge/waqargul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[gmailbadge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<!-- [linkedinbadge]: https://img.shields.io/badge/waqargul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[gmailbadge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white --> -->
